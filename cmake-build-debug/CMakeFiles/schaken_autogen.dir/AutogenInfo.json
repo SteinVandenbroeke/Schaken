@@ -1,0 +1,121 @@
+{
+	"BUILD_DIR" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug/schaken_autogen",
+	"CMAKE_BINARY_DIR" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke",
+	"CMAKE_EXECUTABLE" : "C:/Program Files/JetBrains/CLion 2020.2.4/bin/cmake/win/bin/cmake.exe",
+	"CMAKE_SOURCE_DIR" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/SchaakStuk.h",
+			"Mu",
+			"EWIEGA46WW/moc_SchaakStuk.cpp"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/chessboard.h",
+			"Mu",
+			"EWIEGA46WW/moc_chessboard.cpp"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/game.h",
+			"Mu",
+			"EWIEGA46WW/moc_game.cpp"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/mainwindow.h",
+			"Mu",
+			"EWIEGA46WW/moc_mainwindow.cpp"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/possibleMoves.h",
+			"Mu",
+			"EWIEGA46WW/moc_possibleMoves.cpp"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/resources.h",
+			"Mu",
+			"EWIEGA46WW/moc_resources.cpp"
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug/schaken_autogen/include",
+	"MOC_COMPILATION_FILE" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug/schaken_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug",
+		"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke",
+		"C:/Qt/5.15.2/mingw81_64/include",
+		"C:/Qt/5.15.2/mingw81_64/include/QtCore",
+		"C:/Qt/5.15.2/mingw81_64/mkspecs/win32-g++",
+		"C:/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"C:/Qt/5.15.2/mingw81_64/include/QtGui",
+		"C:/Qt/5.15.2/mingw81_64/include/QtANGLE",
+		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++",
+		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/x86_64-w64-mingw32",
+		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/c++/backward",
+		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
+		"C:/Qt/Tools/mingw810_64/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
+		"C:/Qt/Tools/mingw810_64/x86_64-w64-mingw32/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : true,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"C:/Qt/Tools/mingw810_64/bin/g++.exe",
+		"-dM",
+		"-E",
+		"-c",
+		"C:/Program Files/JetBrains/CLion 2020.2.4/bin/cmake/win/share/cmake-3.17/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug/schaken_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug/CMakeFiles/schaken_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "C:/Qt/5.15.2/mingw81_64/bin/moc.exe",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/cmake-build-debug/CMakeFiles/schaken_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/SchaakStuk.cpp",
+			"Mu"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/chessboard.cpp",
+			"Mu"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/game.cpp",
+			"Mu"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/main.cpp",
+			"Mu"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/mainwindow.cpp",
+			"Mu"
+		],
+		[
+			"D:/onedrive - Uantwerpen/OneDrive - Universiteit Antwerpen/Documenten/Eerste jaar/semester 1/Inleiding programmeren/eigen code/schaken-base - Stein Vandenbroeke/possibleMoves.cpp",
+			"Mu"
+		]
+	],
+	"VERBOSITY" : 0
+}
